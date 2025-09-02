@@ -19,5 +19,5 @@
 - 語言：C#
 - 遊戲執行平台：Android
 
-## 📂 下載遊戲
-[下載 APK] (https://drive.google.com/file/d/1hgwqLbFJhIRvWayIuzaklEBJVbd6n5qW/view?usp=sharing)
+## 📥 下載遊戲
+[下載 APK](https://drive.google.com/file/d/1hgwqLbFJhIRvWayIuzaklEBJVbd6n5qW/view?usp=sharing)
