@@ -12,7 +12,7 @@
 - **建立廣告系統**：整合Google AdMob，看完廣告可重置冷卻時間
 
 ## 📸 實作功能
-遊戲操作影片：
+[遊戲操作影片](https://youtube.com/shorts/F3dzax3pyj8?si=5kmjsC-rx6zfBVbF)
 
 ## 🛠️ 技術
 - 引擎：Unity 6
@@ -20,4 +20,4 @@
 - 遊戲執行平台：Android
 
 ## 📥 下載遊戲
-[下載 APK](https://drive.google.com/file/d/1wvTcxNq8dWgQsYb5Q4rYmmDoeiQSLh3Q/view?usp=sharing)
+[下載 APK](https://drive.google.com/file/d/1IpBg17rfl4LcVPm-sAsPnIwVS5VpFBpa/view?usp=sharing)
